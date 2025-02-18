@@ -10,6 +10,6 @@ React.js - React Native - Next.js - Node.js - Express.js - .NET - Sass - Bootstr
 
 
 ## Let's Connect
-- ✉️ [Email](contact@danilonakai.com)
+- ✉️ [Email](mailto:contact@danilonakai.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/danilonakai)
 - 🌐 [Portfolio](https://danilonakai.com)

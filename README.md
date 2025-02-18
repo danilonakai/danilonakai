@@ -3,11 +3,8 @@
 ### Software Developer 
 
 ## 🔹 Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+React.js | React Native | Next.js | Node.js | Express.js | .NET | Sass | Bootstrap | HTML | CSS | TypeScript | JavaScript | PHP | Python | Java | C# | MySQL | MongoDB | PostgreSQL | Azure | GCP | WordPress | Git | Docker | Agile | Jira | Clean Code | Unreal Engine 5
+
 
 ## 🔹 Let's Connect
 - 📫 [LinkedIn](https://www.linkedin.com/in/danilonakai)

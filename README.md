@@ -2,8 +2,7 @@
 
 ### Software Developer 
 
-Brazilian 🇧🇷
-Based in Hamilton, Ontario 🇨🇦
+- 📍 Based in Hamilton, Ontario
 
 ## Technologies
 React.js - React Native - Next.js - Node.js - Express.js - .NET - Sass - Bootstrap - HTML - CSS - TypeScript - JavaScript - PHP - Python - Java - C# - MySQL - MongoDB - PostgreSQL - Azure - GCP - WordPress - Git - Docker - Agile - Jira - Clean Code - Unreal Engine 5

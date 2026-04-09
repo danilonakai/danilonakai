@@ -1,6 +1,6 @@
 # Danilo Nakai
 
-### Software Developer 
+### Full Stack Developer
 
 - 📍 Based in **Montréal, Québec**
 - 🗣️ Fluent in **English**, **Portuguese**, and **Japanese** (Currently learning **French**)
